@@ -2,6 +2,6 @@ numpy
 pandas
 scikit-learn
 nltk
-streamlit
+streamlit>=1.32.0
 wordcloud
 matplotlib
