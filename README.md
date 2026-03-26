@@ -11,6 +11,8 @@ A powerful Machine Learning web application utilizing Natural Language Processin
 ## ✨ Features
 * **Live Message Prediction:** Instantly detects if a custom message is Spam with real-time confidence scores.
 * **Dual AI Models:** Toggle instantly between a **Naive Bayes (`MultinomialNB`)** model and a **Logistic Regression** model for comparison.
+
+🔴 **[Try the Live Web App Here!](https://spam-classifier-octklpjehh8yvpkcubw9cs.streamlit.app/)**
 * **Data Visualizations:** Automatically visually renders "Word Clouds" to display the most frequent terms used by real-world scammers based on the SMS Spam Collection dataset.
 * **NLTK Text Pre-Processing:** Programmatically removes punctuation, converts text to lowercase, and strips standard English stopwords to increase AI accuracy.
 
